@@ -1,5 +1,9 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+*{
   margin: 0;
-  background-color:  #3EDBF0;
-  text-align: center;
-  font-family: 'Noto Sans JP', sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family:  'Poppins', sans-serif;
+}
